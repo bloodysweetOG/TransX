@@ -1,2 +1,2 @@
 # TransX
-This is our respository in which we are going to write and read our program for TransX.
+This is our respository in which we are going to write our program for TransX.
